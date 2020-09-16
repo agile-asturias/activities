@@ -27,3 +27,5 @@ Todas nuestras actividades están obligadas a respetar nuestro [código de condu
 [code of conduct]: https://github.com/agile-asturias/core/blob/master/README.md
 [terms]: https://github.com/agile-asturias/activities/blob/master/TERMS.md
 
+Por último, si no te importa, envíanos un email con una dirección de contacto a Agile Asturias ( agileasturias@gmail.com ) para que la comunicación a la hora de organizar la charla sea mas sencilla :-)
+
