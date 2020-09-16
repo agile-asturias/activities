@@ -19,4 +19,4 @@ Incumplir cualquiera de los puntos anteriores puede llevar consigo la anulación
 [código de conducta](https://github.com/agile-asturias/core/blob/master/README.md)
 
 ## Agradecimientos
-Este texto está derivado del mismo de la comunidad AsturiasHacking (https://github.com/asturiashacking), gracias por ser fuente de inspiración y motivación constante
+Este texto está derivado del mismo de la comunidad [AsturiasHacking](https://github.com/asturiashacking), gracias por ser fuente de inspiración y motivación constante
