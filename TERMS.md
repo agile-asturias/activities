@@ -16,7 +16,7 @@ Incumplir cualquiera de los puntos anteriores puede llevar consigo la anulación
 \* Desde Agile Asturias nos adaptamos 100% al contexto de cada charla, pero es necesario llegar a un acuerdo con la organización antes de realizar cambios en alguno de estos puntos.
 
 ## Código de conducta
-[código de conducta](https://github.com/agile-asturias/core/blob/master/README.md)
+[código de conducta](https://github.com/agile-asturias/core/blob/master/coc/CODE_OF_CONDUCT.md)
 
 ## Agradecimientos
 Este texto está derivado del mismo de la comunidad [AsturiasHacking](https://github.com/asturiashacking), gracias por ser fuente de inspiración y motivación constante
