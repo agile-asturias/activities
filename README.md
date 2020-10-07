@@ -1,4 +1,4 @@
-# activites
+# activities
 
 En este repositorio se podrán proponer, mediante issues, posibles charlas, talleres, hackathones, etc. que se puedan desarrollar en la comunidad Agile Asturias para tener un repositorio de propuestas de cara a futuros [_meetups_](https://www.meetup.com/Agile-Asturias/).
 
